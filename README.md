@@ -6,6 +6,6 @@ Generate production dist files using `npx tsc`
 
 Execute from the entry point using `npm start`
 
-# Solution location
+# Output location
 
-Solution will be generated in the `data/output.json` file
+Output will be generated in the `data/output.json` file
